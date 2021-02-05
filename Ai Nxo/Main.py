@@ -5,6 +5,7 @@
 # To make an imperative block higher weighted if its the last one
 # If it cant see a winning position that it has started see if there is an new winning formula that is still available
 # also do one away from winning is an imperative move
+#test
 
 import startGame
 import endGame
